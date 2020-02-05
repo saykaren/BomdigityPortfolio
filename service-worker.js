@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BomdigityPortfolio/precache-manifest.68112829c2ab973a91bdd1ce528887ca.js"
+  "/BomdigityPortfolio/precache-manifest.3d82a4664205b7d78ba2444285bfdfba.js"
 );
 
 self.addEventListener('message', (event) => {
