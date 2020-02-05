@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BomdigityPortfolio/static/css/main.254765c3.chunk.css",
+    "main.js": "/BomdigityPortfolio/static/js/main.21cbd00a.chunk.js",
+    "main.js.map": "/BomdigityPortfolio/static/js/main.21cbd00a.chunk.js.map",
+    "runtime~main.js": "/BomdigityPortfolio/static/js/runtime~main.3f055328.js",
+    "runtime~main.js.map": "/BomdigityPortfolio/static/js/runtime~main.3f055328.js.map",
+    "static/js/2.d2a539ac.chunk.js": "/BomdigityPortfolio/static/js/2.d2a539ac.chunk.js",
+    "static/js/2.d2a539ac.chunk.js.map": "/BomdigityPortfolio/static/js/2.d2a539ac.chunk.js.map",
+    "index.html": "/BomdigityPortfolio/index.html",
+    "precache-manifest.68112829c2ab973a91bdd1ce528887ca.js": "/BomdigityPortfolio/precache-manifest.68112829c2ab973a91bdd1ce528887ca.js",
+    "service-worker.js": "/BomdigityPortfolio/service-worker.js",
+    "static/css/main.254765c3.chunk.css.map": "/BomdigityPortfolio/static/css/main.254765c3.chunk.css.map",
+    "static/media/AddressBookPic.png": "/BomdigityPortfolio/static/media/AddressBookPic.fecba441.png",
+    "static/media/Bomdigity.gif": "/BomdigityPortfolio/static/media/Bomdigity.7a737d02.gif",
+    "static/media/ColorsRedux_10.2019.gif": "/BomdigityPortfolio/static/media/ColorsRedux_10.2019.bab4ad07.gif",
+    "static/media/FIRE.png": "/BomdigityPortfolio/static/media/FIRE.9bd09067.png",
+    "static/media/GitFitter.gif": "/BomdigityPortfolio/static/media/GitFitter.0a0c9e0c.gif",
+    "static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.png": "/BomdigityPortfolio/static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.2099b483.png",
+    "static/media/Number_Guesser.gif": "/BomdigityPortfolio/static/media/Number_Guesser.7f28071e.gif",
+    "static/media/React_Website_ES6_8.1.2019.png": "/BomdigityPortfolio/static/media/React_Website_ES6_8.1.2019.56952159.png",
+    "static/media/businessFinancial.png": "/BomdigityPortfolio/static/media/businessFinancial.f31a1bc9.png",
+    "static/media/checkwritting.png": "/BomdigityPortfolio/static/media/checkwritting.230b6c8b.png",
+    "static/media/flashcard-starter.gif": "/BomdigityPortfolio/static/media/flashcard-starter.bd82fb9a.gif",
+    "static/media/karenHero.jpg": "/BomdigityPortfolio/static/media/karenHero.f00add6d.jpg",
+    "static/media/sayKaren_Logo_transparent_7.2019.png": "/BomdigityPortfolio/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png",
+    "static/media/sayKaren_logo-white_8.1.2019.png": "/BomdigityPortfolio/static/media/sayKaren_logo-white_8.1.2019.d0827d01.png"
+  }
+}
