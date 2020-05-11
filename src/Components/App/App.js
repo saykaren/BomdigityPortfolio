@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import '../Styling/App.scss';
 import NavigationBar from './Navigation';
 import Footer from './Footer';
 import LandingPage from './LandingPage';

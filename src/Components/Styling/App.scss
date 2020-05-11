@@ -1,0 +1,146 @@
+@import './variables.scss';
+@import './ContactMe.scss';
+@import './Footer.scss';
+@import './HeroPicture.scss';
+@import './AboutMe.scss';
+@import './Navigation.scss';
+@import './MyWork.scss';
+
+a {
+  font-weight: bold;
+}
+
+body,
+html {
+  height: 100%;
+  background-color: $primary-color;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+  text-decoration: none;
+  border: 1px solid $primary-color;
+  background-color: $link-color;
+  color: white;
+  border-radius: 25px;
+  padding: 2px;
+  margin-top: 10px;
+  opacity: 0.9;
+}
+
+.button:hover {
+  text-decoration: none;
+  border: 1px solid white;
+  background-color: white;
+  color: $primary-color;
+  border-radius: 25px;
+  padding: 2px;
+  margin-top: 10px;
+}
+
+#buttonMain {
+  font-size: 2rem;
+}
+
+#buttonSignUp {
+  text-align: center;
+  margin-top: 0.7rem;
+  padding: 1rem;
+}
+
+#credentialTitle,
+.faqTitles {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
+
+.fab {
+  padding: 1rem;
+  color: white;
+}
+
+#freeCodeCamp {
+  text-decoration: none;
+  color: black;
+}
+
+.front,
+.back {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.front {
+  background: #d1d1d1;
+  width: 100%;
+}
+
+.back {
+  background: #d1d1d1;
+  flex-direction: column;
+  width: 100%;
+}
+
+#iconSection {
+  display: flex;
+  justify-content: center;
+}
+
+.icons {
+  align-self: center;
+  text-decoration: none;
+  color: white;
+}
+
+#inputState {
+  font-size: 2rem;
+}
+
+#requestState {
+  font-size: 2rem;
+  align-self: center;
+}
+
+#myWork {
+  color: white;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+#sayKarenLogo {
+  height: 3.2rem;
+}
+
+#sayKarenLogoFrontPage {
+  height: 8rem;
+}
+
+.socialLinks {
+  text-decoration: none;
+}
+
+#stateChange {
+  font-size: 3rem;
+  align-self: center;
+}
+
+#stateLogo {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.strong {
+  font-weight: bold;
+  align-self: center;
+}
+
+#userChangeState {
+  display: flex;
+  flex-direction: column;
+}
+
