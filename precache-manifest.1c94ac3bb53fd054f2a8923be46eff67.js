@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4bee51629b74ebda451265ad9dcd95",
+    "revision": "a0fea673be820509d0956127b60f7e9e",
     "url": "/BomdigityPortfolio/index.html"
   },
   {
-    "revision": "fc784838b4ce7d37c9f9",
+    "revision": "ab28c3dd6637ff4077f9",
     "url": "/BomdigityPortfolio/static/css/main.504ee727.chunk.css"
   },
   {
-    "revision": "195a31d271e763692422",
-    "url": "/BomdigityPortfolio/static/js/2.0d645e34.chunk.js"
+    "revision": "552619c3b31625c44128",
+    "url": "/BomdigityPortfolio/static/js/2.5487f5f1.chunk.js"
   },
   {
-    "revision": "fc784838b4ce7d37c9f9",
-    "url": "/BomdigityPortfolio/static/js/main.4187e70c.chunk.js"
+    "revision": "ab28c3dd6637ff4077f9",
+    "url": "/BomdigityPortfolio/static/js/main.c96035e4.chunk.js"
   },
   {
     "revision": "a87eccbc1e983b0477ab",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "56952159168e1c475dc1edeb1a7be781",
     "url": "/BomdigityPortfolio/static/media/React_Website_ES6_8.1.2019.56952159.png"
+  },
+  {
+    "revision": "c164bb261c767fe7a0d5c709c7064da0",
+    "url": "/BomdigityPortfolio/static/media/SinkingFundJpeg.c164bb26.jpeg"
   },
   {
     "revision": "f31a1bc9a903382998c4d47eb4c31462",
