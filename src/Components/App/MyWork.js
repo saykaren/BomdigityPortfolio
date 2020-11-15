@@ -12,11 +12,41 @@ import FIRE from '../../assets/FIRE.png';
 import AddressBook from '../../assets/AddressBookPic.png';
 import MortgageBeGone from '../../assets/MortgageBeGone.jpeg';
 import SinkingFund from '../../assets/SinkingFundJpeg.jpeg';
+import Recipe from '../../assets/Recipe.jpeg';
 
 const MyWork = () => (
   <div>
     <h1 id="myWork">Work Examples</h1>
     <main id="workContainer">
+        <section className="workPortfolio">
+            <section className="front">
+              <img 
+                src={Recipe}
+                className="workImg front"
+                alt="Recipe Box"
+              />
+            </section>
+            <section className="back">
+              <span className="strong">
+              Project Name: 
+              </span>
+              <span className="workDetails">
+              sayKaren's Recipe Box
+              </span>
+              <span className="strong">
+                Demonstrates: 
+              </span>
+              <span className="workDetails">
+              React, TypeScript, SCSS and Modal
+              </span>
+              <a href="https://github.com/saykaren/sayKarenRecipes" target="_blank" rel="noopener noreferrer" className="workDetails">
+                Code 
+              </a>
+              <a href="https://saykaren.github.io/sayKarenRecipes/" target="_blank" rel="noopener noreferrer" className="workDetails">
+                Live Site
+              </a>
+            </section>
+          </section>
       <section className="workPortfolio">
         <section className="front">
           <img src={SinkingFund} className="workImg" alt="SinkingFund" />
